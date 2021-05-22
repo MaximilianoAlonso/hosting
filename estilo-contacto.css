@@ -1,0 +1,76 @@
+.cuerpo{
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    }
+    .titulo-general {
+    font-size: 25px; color: white;
+    background-color: black;
+    margin: 10px;
+    text-shadow: 0 0 20px #fff;
+    }
+    .navegacion {
+        background-color: rgb(87, 24, 24);
+        padding: 0px;
+        height: 100%;
+        margin: 0px;
+    }
+    .forma {
+        font-size: 25px;
+        float: left;
+        margin-left: 35px;
+        margin-top: 10px;
+    
+         }
+    a {
+      outline: none;
+      text-decoration: none;
+      color: aliceblue;
+    }
+.seccion{
+        background-image: url(https://raw.githubusercontent.com/MaximilianoAlonso/MaximilianoAlonso/main/Primer-Pagina/fondoimagen.jpg);
+        text-align: left; color: white;
+        margin: 0px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        box-shadow: 0 0 50px rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+h1{font-size: 40px;}
+h2{font-size: 25px;}
+p{font-size: 20px;}
+.contacto{
+    background-color: black;
+    width: 885px;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+
+}
+.formulario{
+    color: white;
+    background-color: black;
+    margin-left: 10%;
+    width: 700px;
+    padding: 25px;
+    box-shadow: 0 0 50px rgb(0, 0, 0);
+
+}
+
+
+.tel { 
+    color: white;
+    font-size: 30px;
+    float: left;
+    size: 50%;
+    display:flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .email{
+        color: white;
+        size: 50%;
+        text-align: right;
+        font-size: 30px;
+    
+    
+    }
+    
+    
